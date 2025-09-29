@@ -8,7 +8,7 @@ Hi, I am Aryan Hassanzadeh, a backend developer, I have about 10+ years of softw
 
 *   🌍  I'm based in Web
 *   ✉️  You can contact me at [aryanhasanzadeh75@gmail.com](mailto:aryanhasanzadeh75@gmail.com)
-*   🚀  I'm currently working on [creativeintell]([http://metft.com/](https://www.creativeintell.com/))
+*   🚀  I'm currently working on [creativeintell](https://www.creativeintell.com/)
 *   🧠  I'm learning new technologies
 *   🤝  I'm open to collaborating on Interesting and challenge projects <br>
 
